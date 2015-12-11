@@ -7,4 +7,6 @@
   <dd>Chocolate</dd>
   <dt>A hobby</dt>
   <dd>Crochet</dd>
+  <dt>Favorite color</dt>
+  <dd>Green</dd>
 </dl>
