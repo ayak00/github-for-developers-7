@@ -9,4 +9,6 @@
   <dd>Crochet</dd>
   <dt>Favorite color</dt>
   <dd>Green</dd>
+  <dt>Favorite fruits</dt>
+  <dd>庄内柿</dd>  
 </dl>
